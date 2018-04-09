@@ -2,7 +2,9 @@
 简易的纯界面形式服装商城展示
 
 
-* 在线访问地址 [http://cnkj.site](http://cnkj.site)
+* 在线访问地址：[http://cnkj.site](http://cnkj.site)
+
+* 在线访问地址：[https://carolcoral.github.io/ClothesWebSite/](https://carolcoral.github.io/ClothesWebSite/)
 
 ### 说明：
 
